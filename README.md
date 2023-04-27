@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Maher khemiri, a software engineer with 13 years of experience in developing web applications. I have a passion for creating efficient and scalable software solutions using Java, Python, JavaScript, and TypeScript. Over the years, I have gained experience in both front-end and back-end development, and I am constantly learning and exploring new technologies.
+As a software engineer, I am passionate about developing efficient and scalable solutions using a variety of programming languages, including Java, Python, JavaScript, and TypeScript. With years of experience in both front-end and back-end development, I have honed my skills in building robust and reliable software systems. My dedication to staying up-to-date with the latest technologies and trends in the industry allows me to continuously improve my craft and create innovative solutions for complex problems.
 
 
 
