@@ -19,6 +19,24 @@ I'm Maher khemiri, a software engineer with 13 years of experience in developing
 
 
 
+
+## 🌱 Skills
+
+- Java
+- Python
+- JavaScript
+- TypeScript
+- PostgreSQL
+- MySQL
+- DevOps (Docker, Jenkins, Sonar)
+- Scrum
+
+## 💬 Interests and Experience
+
+- Front-end and back-end development
+- Efficient and scalable software solutions
+- Learning and exploring new technologies
+
 ## 💬 Let's connect
 
 In this profile README, I want to showcase some of my projects and skills, as well as share my interests and experience in software engineering. Thanks for stopping by, and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meher-khemiri/). Let's chat about software engineering and technology! 
