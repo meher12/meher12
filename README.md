@@ -37,8 +37,6 @@ As a software engineer, I am passionate about developing efficient and scalable 
 - Efficient and scalable software solutions
 - Learning and exploring new technologies
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meher12)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 💬 Let's connect
 
 In this profile README, I want to showcase some of my projects and skills, as well as share my interests and experience in software engineering. Thanks for stopping by, and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meher-khemiri/). Let's chat about software engineering and technology! 
